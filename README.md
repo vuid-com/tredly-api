@@ -1,7 +1,7 @@
 # Tredly API
 
-Version 1.0.4
-August 12 2016
+Version 1.0.5
+August 17 2016
 
 This is a software package to provide API to a Tredly Host. You can find out more information about Tredly at **<http://tredly.com>**
 
